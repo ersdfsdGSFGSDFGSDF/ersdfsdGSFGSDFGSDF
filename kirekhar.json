@@ -1,1 +1,7 @@
-aid10-siaka-9ska3d-s8aid
+{
+    "licenses": [
+        "aid10-siaka-9ska3d-s8aid",
+        "license-example-1234-abcd",
+        "another-license-key-5678-efgh"
+    ]
+}
